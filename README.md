@@ -28,3 +28,6 @@ Ideal for developers building AI assistants, customer support agents, or any use
 ```
 streamlit run mychatbot_frontend.py
 ```
+
+#### Architecture
+
