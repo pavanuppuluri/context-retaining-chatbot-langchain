@@ -31,3 +31,5 @@ streamlit run mychatbot_frontend.py
 
 #### Architecture
 
+
+<img width="1305" alt="Screenshot 2025-05-25 at 9 25 09 PM" src="https://github.com/user-attachments/assets/ce9307f6-5f07-482a-9c53-3313c278259b" />
