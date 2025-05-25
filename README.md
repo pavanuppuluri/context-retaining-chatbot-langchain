@@ -23,3 +23,8 @@ Ideal for developers building AI assistants, customer support agents, or any use
 - Install Streamlit
 - Install Transformers
 - Install PyYAML
+
+#### Command to run Chatbot UI
+```
+streamlit run mychatbot_frontend.py
+```
